@@ -6,8 +6,8 @@ import AboutMeGallery from '../components/Gallery/components/AboutMeGallery'
 import Layout from '../components/layout'
 
 const HomeIndex = () => {
-  const siteTitle = 'Gatsby Starter - Strata'
-  const siteDescription = 'Site description'
+  const siteTitle = "Sarah's Law"
+  const siteDescription = 'My law profile'
 
   return (
     <Layout>
