@@ -27,7 +27,7 @@ const HomeIndex = () => {
             After graduating from UWE, Bristol, followed by passing the bar in the UK, it was
             always my intention to return to Malaysia practice law. Coupling my refined knowledge
             of the law with my bilingual upbringing, I've gained a continuous competitive edge
-            over my opposing council. With almost 5 years of legal practice and incredible mentorship,
+            over my opposing counsel. With almost 5 years of legal practice and incredible mentorship,
             I have gained invaluable experience from employing legal aptitude on a daily basis.
           </p>
           <AboutMeGallery />
