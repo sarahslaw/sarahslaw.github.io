@@ -24,11 +24,11 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            After graduating from the University of Baboons and passing the bar in the UK, it was
+            After graduating from UWE, Bristol, followed by passing the bar in the UK, it was
             always my intention to return to Malaysia practice law. Coupling my refined knowledge
-            of the law alongside my bilingual upbringing, I've gained a continuous competitive edge
-            over my opposing council. With almost 5 years of legal practice, I have gained invaluable 
-            experience from employing legal aptitude on a daily basis.
+            of the law with my bilingual upbringing, I've gained a continuous competitive edge
+            over my opposing council. With almost 5 years of legal practice and incredible mentorship,
+            I have gained invaluable experience from employing legal aptitude on a daily basis.
           </p>
           <AboutMeGallery />
 
@@ -46,7 +46,7 @@ const HomeIndex = () => {
           <p>
             I'm always eager to hear about potential opportunities to apply my
             wealth of experience. If you want to know more about the cases I've
-            worked on, or just want a peek at my resume, feel free to reach out
+            worked on or just want a peek at my resume, feel free to reach out
             via email or message and I'll respond as soon as possible!
           </p>
           <div className="row">
