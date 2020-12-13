@@ -5,23 +5,8 @@ const Footer = () => (
     <div className="inner">
       <ul className="icons">
         <li>
-          <a href="#" className="icon fa-twitter">
-            <span className="label">Twitter</span>
-          </a>
-        </li>
-        <li>
-          <a href="#" className="icon fa-github">
-            <span className="label">Github</span>
-          </a>
-        </li>
-        <li>
-          <a href="#" className="icon fa-dribbble">
-            <span className="label">Dribbble</span>
-          </a>
-        </li>
-        <li>
-          <a href="#" className="icon fa-envelope-o">
-            <span className="label">Email</span>
+          <a href="https://www.linkedin.com/in/sarah-reshmi-felix-061a84133" className="icon fa-linkedin">
+            <span className="label">Linkedin</span>
           </a>
         </li>
       </ul>
@@ -29,6 +14,9 @@ const Footer = () => (
         <li>&copy; Gatsby Starter Strata</li>
         <li>
           Design: <a href="http://html5up.net">HTML5 UP</a>
+        </li>
+        <li>
+          Designed by: Ian K. Felix
         </li>
       </ul>
     </div>
