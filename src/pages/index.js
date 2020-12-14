@@ -24,11 +24,12 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            After graduating from UWE, Bristol, followed by passing the bar in the UK, it was
-            always my intention to return to Malaysia practice law. Coupling my refined knowledge
-            of the law with my bilingual upbringing, I've gained a continuous competitive edge
-            over my opposing counsel. With almost 5 years of legal practice and incredible mentorship,
-            I have gained invaluable experience from employing legal aptitude on a daily basis.
+            After graduating from UWE Bristol and completing the UK Bar, I have encountered many 
+            opportunities to be creatively involved in and execute civil litigation disputes efficiently. 
+            My practice thus far has been under the general litigation umbrella involving varying levels 
+            of complexity, with key focus areas in corporate and commercial disputes, family matters and 
+            contractual disputes. With almost 5 years of legal practice and incredible mentorship, I have 
+            gained invaluable experience from employing legal aptitude on a daily basis.
           </p>
           <AboutMeGallery />
 

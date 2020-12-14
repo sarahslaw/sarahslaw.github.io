@@ -14,27 +14,27 @@ export const DEFAULT_IMAGES = [
       source: taman2,
       thumbnail: taman1,
       caption: 'Taman Rimba v Warrior Rubber Products',
-      description: 'Court granted winding up order.',
+      description: 'Stay of execution of winding-up order granted.',
     },
     {
       id: '2',
       source: erngee2,
       thumbnail: erngee1,
       caption: 'Er Ngee & Ors v Lim Choon Hiok',
-      description: 'Divorce petition awarded.',
+      description: 'Striking out of Plaintiff’s case for declaratory reliefs on family assets and properties was allowed.',
     },
     {
       id: '3',
       source: hartajaya2,
       thumbnail: hartajaya1,
       caption: 'Hartajaya-Benteng v Kerajaan Malaysia',
-      description: 'Breach of construction contract.',
+      description: 'Breach of construction contract. Termination of one of two contracts rendered unlawful.',
     },
     {
       id: '4',
       source: ocean2,
       thumbnail: ocean1,
       caption: 'Ocean W Ict v Dvm Innovate',
-      description: 'Defendant ordered to pay plaintiff sum close to RM2.9mil.',
+      description: 'Court upheld that Defendant ordered to pay plaintiff sum close to RM2.9mil.',
     }
 ]
